@@ -22,6 +22,7 @@
 ## **flip**
 
 `GET` flip/
+
 Switch letters on signage board to other option
 ### Sample request
 `curl -X POST http://localhost:80/flip`
