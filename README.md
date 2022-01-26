@@ -19,7 +19,7 @@
 
 
 # Endpoints
-## flip
+## **flip**
 
 `GET` flip/
 Switch letters on signage board to other option
